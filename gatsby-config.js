@@ -1,21 +1,21 @@
 module.exports = {
   siteMetadata: {
-    title: ``,
-    description: ``,
+    title: `The Warm Up Podcast`,
+    description: `The Warm Up Podcast is a comedic joyride into the world of sports and entertainment. Take an imaginary road trip with three Long Islanders as they look to discover what makes athletes and entertainers successful.`,
     author: ``,
     twitter: ``,
-    instagram: ``,
+    instagram: `https://www.instagram.com/thewarmuppodcast/`,
     facebook: ``,
-    youtube: ``,
-    apple: ``,
-    google: ``,
-    pocket: ``,
-    spotify: ``,
-    overcast: ``,
-    castbox: ``,
-    castro: `https://castro.fm/itunes/`,
+    youtube: `https://www.youtube.com/channel/UCt4hTSbTppVz1NlRpmfWVYw`,
+    apple: `https://podcasts.apple.com/podcast/id1465633538?ct=podlink&mt=2`,
+    google: `https://podcasts.google.com/?feed=aHR0cHM6Ly9mZWVkLnBvZGJlYW4uY29tL3RoZXdhcm11cHBvZGNhc3QvZmVlZC54bWw=`,
+    pocket: `https://pca.st/itunes/1465633538`,
+    spotify: `https://open.spotify.com/show/1E1zgJ80UVtrHrvrr2ndDj`,
+    overcast: `https://overcast.fm/itunes1465633538`,
+    castbox: `https://castbox.fm/vic/1465633538`,
+    castro: `https://castro.fm/itunes/1465633538`,
     podbean: ``,
-    beaker: ``,
+    beaker: `https://www.breaker.audio/shows?feed_url=https%3A%2F%2Ffeed.podbean.com%2Fthewarmuppodcast%2Ffeed.xml`,
     stitcher: ``
   },
   plugins: [
@@ -52,7 +52,7 @@ module.exports = {
         // url: `https://www.gatsbyjs.org/blog/rss.xml`,
         // url: `https://boysinthecave.com/feed/podcast/`,
         // url: `http://boysinthecave.libsyn.com/rss`,
-        url: `http://feeds.soundcloud.com/users/soundcloud:users:407560764/sounds.rss`,
+        url: `https://feed.podbean.com/thewarmuppodcast/feed.xml`,
         name: `GatsbyBlog`,
         // Optional
         // Read parser document: https://github.com/bobby-brennan/rss-parser#readme
